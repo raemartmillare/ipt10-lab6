@@ -1,0 +1,8 @@
+Order Code: 228b996d
+Date: 2024-09-14 05:29:53
+
+Items:
+Product ID: 1, Name: 1Kg Sugar, Price: 100 PHP, Quantity: 2
+Product ID: 2, Name: 1L Milk, Price: 120 PHP, Quantity: 1
+
+Total Price: 320 PHP
